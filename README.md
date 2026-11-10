@@ -2,7 +2,9 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:134E4A,100:F59E0B&height=180&section=header&text=Parvathy%20A&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=Computer%20Science%20Engineering%20Student&descAlignY=68&descSize=16" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:134E4A,100:F59E0B&height=180&section=header&text=Parvathy%20A&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=Computer%20Science%20%7C%20Application%20Development&descAlignY=70&descSize=16" width="100%"/>
+
 
 ### Building applications. Learning by creating.
 
